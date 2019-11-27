@@ -8,7 +8,7 @@ if __name__ == "__main__":
 
 
 # ai_module            | AIs classes
-# bottles_functions    | 
-# errors
-# game_logic_functions
-# main
+# bottles_functions    | server related function
+# errors               | error classes
+# game_logic_functions | functions related to the logic of the game
+# main                 | file that lauches the system
